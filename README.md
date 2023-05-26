@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Carlos Isaac</h1>
-<h3 align="center">Ingeniero Comercial y Desarrollador</h3>
+<h3 align="center">Ingeniero Comercial</h3>
 
 - 📫 Puedes contactarme con **caisaacf@gmail.com**
 
